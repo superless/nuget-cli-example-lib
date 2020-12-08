@@ -11,4 +11,8 @@ dotnet nuget add source "json azure devops package url" -n name_repo_artifact -u
 scopes: Packaging (read), Packaging (read and write), or Packaging (read, write, and manage).
 
 
+### **DEPRECADO**
+
+Cambiado por [nuget-package](https://github.com/trifenix/nuget-package).
+
 
